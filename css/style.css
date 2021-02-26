@@ -5,7 +5,7 @@ body {
     width: 960px;
     margin:auto;
     line-height: 1.5;
-  font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 header{
     background-color: rgb(95, 95, 95);
